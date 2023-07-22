@@ -110,3 +110,20 @@ const Dashboard = () => {
 };
 
 export default Dashboard;
+
+
+
+// src/App.js
+import React from 'react';
+import Dashboard from './components/Dashboard';
+
+function App() {
+  return (
+    <div>
+      <h1>Dashboard with Charts</h1>
+      <Dashboard />
+    </div>
+  );
+}
+
+export default App;
