@@ -81,3 +81,4 @@ I am excited about my current project that is Manual Re-age assignment. I will b
 
 
 Continuously worked on improving interpersonal skills and fostering effective communication and collaboration.
+Successfully completed all mandatory trainings ahead of time.
