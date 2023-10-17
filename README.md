@@ -80,3 +80,4 @@ Furthermore, I enthusiastically participated in a company hackathon, where I had
 I am excited about my current project that is Manual Re-age assignment. I will be working with React, and I am eager to leverage the knowledge and skills I have gained to contribute effectively to the project.
 
 
+Continuously worked on improving interpersonal skills and fostering effective communication and collaboration.
