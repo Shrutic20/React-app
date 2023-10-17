@@ -85,7 +85,7 @@ Successfully completed all mandatory trainings ahead of time.
 
 
 
-
+"I have diligently executed my responsibilities over the past three months, actively identifying and addressing potential risks within IT projects. I have consistently adhered to established control procedures, ensuring compliance and security. Additionally, I've contributed by introducing process enhancements to strengthen risk management. While I've encountered challenges, I've proactively resolved them to maintain a robust risk and control framework."
 
 
 
